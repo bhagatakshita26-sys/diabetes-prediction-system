@@ -1,0 +1,2 @@
+
+url = 'https://raw.githubusercontent.com/sarwansingh/Python/master/ClassExamples/data/diabetes1.csv'
