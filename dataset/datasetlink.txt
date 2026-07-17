@@ -1,2 +1,3 @@
 
 url = 'https://raw.githubusercontent.com/sarwansingh/Python/master/ClassExamples/data/diabetes1.csv'
+colab: https://colab.research.google.com/drive/1ZEitm2I-HxMkSzjSPVODiFR1kan1rFGs?usp=sharing
