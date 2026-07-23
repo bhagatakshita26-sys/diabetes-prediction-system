@@ -21,11 +21,11 @@ def predict_diabetes(pregnancies, glucose, insulin, bmi, age):
 # --- CODE BLOCK: ADDED FOOTER INFO AND ARTICLE PARAMETER ---
 developer_info = """
 ### About the Developer
-**Created by:** Chandan Saroj
+**Created by:** Ashita
 
-* **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL_HERE)
-* **GitHub:** [Check out my projects](YOUR_GITHUB_URL_HERE)
-* **Instagram:** [Follow me](YOUR_INSTAGRAM_URL_HERE)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/
+ashita-rani-073475379)
+* **GitHub:** [Check out my projects](https://github.com/bhagatakshita26-sys)
 
 ---
 ### 🛠️ Tools & Technologies Used
