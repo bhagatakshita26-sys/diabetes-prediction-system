@@ -23,9 +23,8 @@ developer_info = """
 ### About the Developer
 **Created by:** Ashita
 
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/
-ashita-rani-073475379)
-* **GitHub:** [Check out my projects]https://github.com/bhagatakshita26-sys()
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ashita-rani-073475379)
+* **GitHub:** [Check out my projects](https://github.com/bhagatakshita26-sys)
 
 ---
 ### 🛠️ Tools & Technologies Used
